@@ -1,1 +1,1 @@
-This is a new file to remaster git 
+This folder is used in a bunch of exercices to master git.
